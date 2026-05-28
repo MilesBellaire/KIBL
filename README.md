@@ -1,5 +1,7 @@
 # KIBL
 
+![KIBL Logo](./Logo.png)
+
 KIBL is a comprehensive pet care platform designed to help pet owners make informed decisions about pet food products. The platform analyzes products based on animal-specific factors to determine suitability for dogs and cats.
 
 ## Architecture
@@ -72,7 +74,3 @@ KIBL/
 - **Frontend**: React Native, Expo, Redux Toolkit
 - **Backend**: ASP.NET Core 8.0, Entity Framework Core, MySQL
 - **Algorithm**: Python, gRPC, Protocol Buffers
-
-## License
-
-[Your License Here]
